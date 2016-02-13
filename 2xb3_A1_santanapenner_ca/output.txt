@@ -1,0 +1,63 @@
+Testing Union
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Intersection
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Difference
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Cartesian Product
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Equality
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing is Subset
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Get Count
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing Cardinality
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
+Testing toString
+Test Case 1: Passed
+Test Case 2: Passed
+Test Case 3: Passed
+Test Case 4: Passed
+Test Case 5: Passed
+
